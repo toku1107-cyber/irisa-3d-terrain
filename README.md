@@ -1,20 +1,6 @@
-# R7 入佐第1-1期地区 B工区（散水）3D地形ビューア
+# 3D Terrain Viewer
 
-令和7年度 畑地帯総合整備事業（担手支援） 入佐第１－１期地区Ｂ工区 畑地かんがい末端散水施設設計委託業務に係る、UAV写真測量成果の3D地形ビューア。
+Public static build.
 
-## 公開URL
-
-https://toku1107-cyber.github.io/irisa-3d-terrain/
-
-## 主な機能
-
-- UAV写真測量オルソ画像 + 3D地形モデル（7,750万点の点群ビニング）
-- 国土地理院タイル背景（航空写真・標準地図・DEM）
-- GCP基準点 16点のマーカー表示
-- 視点プリセット（9方角 × 5仰角）、Z誇張調整、陰影起伏解析
-- クリックで標高値表示、localStorage設定保存
-
-## 出典
-
-- 国土地理院（https://maps.gsi.go.jp/development/ichiran.html）
-- 基盤地図情報（国土地理院長承認）
+Search-engine discovery is discouraged with `noindex` meta tags and
+`robots.txt`, but this is still a public static site.
